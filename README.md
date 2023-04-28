@@ -1,5 +1,6 @@
 <a name="readme-top"></a>
 
+
 <div align="center">
 
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
@@ -8,6 +9,7 @@
   <h3><b>Microverse README Template</b></h3>
 
 </div>
+
 
 # 📗 Table of Contents
 
@@ -31,11 +33,12 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [Hello Microverse] <a name="about-project"></a>
+
+# 📖 [your_project_name] <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[Hello Microverse]** is my first microverse project showing my use of html and  css
+**[your_project__name]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -64,6 +67,7 @@
   </ul>
 </details>
 
+
 ### Key Features <a name="key-features"></a>
 
 > Describe between 1-3 key features of the application.
@@ -81,7 +85,7 @@
 
 - [Live Demo Link](https://google.com)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -115,23 +119,24 @@ You can deploy this project using:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 👥 Authors <a name="Aderounmu Adeniyi"></a>
+## 👥 Authors <a name="authors"></a>
 
 > Mention all of the collaborators of this project.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/godedict)
-- Twitter: [@twitterhandle](https://twitter.com/onlyone_lucas_)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/adeniyi-aderounmu-a03463111/)
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/godedict)
+- GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## 🔭 Future Features <a name="future-features"></a>
 
@@ -143,6 +148,7 @@ You can deploy this project using:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
@@ -150,6 +156,7 @@ Contributions, issues, and feature requests are welcome!
 Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## ⭐️ Show your support <a name="support"></a>
 
@@ -159,6 +166,7 @@ If you like this project...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 > Give credit to everyone who inspired your codebase.
@@ -166,6 +174,7 @@ If you like this project...
 I would like to thank...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
@@ -185,5 +194,7 @@ I would like to thank...
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
