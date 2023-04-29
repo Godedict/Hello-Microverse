@@ -1,75 +1,159 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# 📗 Table of Contents
 
-# Project Name
-
-> Description the project.
-
-
-## Built With
-
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
 
 
-To get a local copy up and running follow these simple example steps.
+# 📖 [Hello-Microverse] <a name="about-project"></a>
 
-### Prerequisites
+<a name="readme-top"></a>
+
+  <h3><b>My Hello Microverse project</b></h3>
+
+</div>
+
+# 📖 My First Microverse project <a name="about-project"></a>
+
+> This is the first Microvetse project. I created it with HTML and CSS
+## 🛠 Built With 
+1 HTML
+2 CSS
+3 Linters
+
+
+### Tech Stack <a name="tech-stack"></a>
+
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://www.w3schools.com/html">HTML</a></li>
+  </ul>
+  <ul>
+    <li><a href="https://www.w3schools.com/css">CSS</a></li>
+  </ul>
+  
+</details>
+
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+1 Added index.html file
+2 Added style.css file
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+## 💻 Getting Started <a name="getting-started"></a>
+
+Fork this repository to your desired folder
+
 
 ### Setup
 
+Clone this repository to your desired folder:
+
+
+Run this commands:
+
+sh
+  cd my-folder
+  git clone https://github.com/Godedict/Hello-Microverse.git
+
+
+
 ### Install
 
+Install this project with:
+
+
+Run this command command:
+
+sh
+  cd my-project
+  npm install
 ### Usage
 
-### Run tests
-
-### Deployment
+To run the project, execute the following command:
 
 
+Example command:
 
-## Authors
+sh
+  Open index.html using live server and view in your wb browser
 
-👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+<!-- AUTHORS -->
 
-👤 **Author2**
+## 👥 Author
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- Aderounmu Adeniyi
+Github: [@githubhandle] - (https://github.com/godedict)
 
-## 🤝 Contributing
+Likedin: [@linkedinhandle] - (https://www.linkedin.com/in/adeniyi-aderounmu-a03463111/)
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features.
+ [ ] Add home menu
+- [ ] Add media contents
+- [ ] Add footer
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
-## Show your support
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Give a ⭐️ if you like this project!
+<!-- SUPPORT -->
 
-## Acknowledgments
+## ⭐ Show your support <a name="support"></a>
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+If you like this project, kindly give me a star  rating.
 
-## 📝 License
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank Microverse for this opportunity.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQ (optional) -->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
